@@ -1,0 +1,7 @@
+br\com\soc\base\BasePage.class
+br\com\soc\pageobjects\BlogPage.class
+br\com\soc\pageobjects\SocnetPage.class
+br\com\soc\steps\BuscaBlogSteps.class
+br\com\soc\pageobjects\CredenciadoPage.class
+br\com\soc\steps\BuscaCredenciadoSteps.class
+br\com\soc\RunCucumberTest.class
